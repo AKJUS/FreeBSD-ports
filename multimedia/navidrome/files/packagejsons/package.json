@@ -33,7 +33,7 @@
     "ra-data-json-server": "^3.19.12",
     "ra-i18n-polyglot": "^3.19.12",
     "react": "^17.0.2",
-    "react-admin": "^3.19.12",
+    "react-admin": "^5.14.2",
     "react-dnd": "^14.0.5",
     "react-dnd-html5-backend": "^14.1.0",
     "react-dom": "^17.0.2",
@@ -48,7 +48,7 @@
     "redux": "^4.2.1",
     "redux-saga": "^1.4.2",
     "uuid": "^13.0.0",
-    "workbox-cli": "^7.3.0"
+    "workbox-cli": "^7.4.0"
   },
   "devDependencies": {
     "@testing-library/jest-dom": "^6.6.3",
